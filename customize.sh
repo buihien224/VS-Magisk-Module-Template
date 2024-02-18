@@ -36,7 +36,7 @@ copym() {
    echo 
    echo "########## COPYM ##########"
    cd "$MODPATH/autod"
-   rm ".place"
+   rm "place"
    base c
 
 }
