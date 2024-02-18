@@ -5,8 +5,8 @@ Module template for testing new feature
 
 #Feature
 > 1. Auto Overwirte File In System By Name 
-2. Auto Remove File In System By Name
-3. Auto Clear Cache When Flashing
+> 2. Auto Remove File In System By Name
+> 3. Auto Clear Cache When Flashing
 
 #How To Use
 -  To overwrite a file: simply place the modified file in the autod folder.
